@@ -194,4 +194,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Manor Lords · Updated 2026-11-19 · Shared under the MIT License*
+*Manor Lords · Updated 2026-11-20 · Shared under the MIT License*
